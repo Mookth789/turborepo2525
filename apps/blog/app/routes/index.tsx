@@ -5,7 +5,7 @@ export default function Index() {
     <div className="container">
       <h1 className="title">
         Blog <br />
-        <span>Kitchen Sink</span>
+        <span>Hello Blog</span>
       </h1>
       <CounterButton />
       <p className="description">
